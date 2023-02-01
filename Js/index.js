@@ -53,7 +53,6 @@ window.addEventListener("scroll", function()
         updateProgressBar("teamwork", 0, 85, 20)
         updateProgressBar("leadership", 0, 70, 20)
         activado = false
-        console.log(activado)
       }
     }
     else if(scrollnow > 1610 && scrollnow < 3090 && windowWidth <= 480)
@@ -66,7 +65,6 @@ window.addEventListener("scroll", function()
         updateProgressBar("teamwork", 0, 85, 20)
         updateProgressBar("leadership", 0, 70, 20)
         activado = false
-        console.log(activado)
       }
     }
     else
