@@ -126,7 +126,7 @@ a:hover .icon
     height: 80vh;
     justify-content: space-evenly;
     align-items: center;
-    background: url("imagenes\ y\ archivos/coding.jpg");
+    background: url("../imagenes\ y\ archivos/coding.jpg");
     background-size: cover;
 }
 
