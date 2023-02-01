@@ -2,4 +2,4 @@
 
 Proyecto final del curso "Primeros pasos del desarrollo frontend" de Ticmas Academy
 
-https://thiagobaglietto.github.io/pruebapaginaa/
+https://thiagobaglietto.github.io/ArgentinaPrograma-ProyectoFinal/
